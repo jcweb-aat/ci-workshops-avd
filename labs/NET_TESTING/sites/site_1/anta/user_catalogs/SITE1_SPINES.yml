@@ -1,8 +1,7 @@
 ##########################################################
 # -------------------- System Tests -------------------- #
 ##########################################################
-
-# anta.tests.system:
-#   - VerifyCPUUtilization:
-#   - VerifyMemoryUtilization:
-#   - VerifyFileSystemUtilization:
+ anta.tests.system:
+   - VerifyCPUUtilization:
+   - VerifyMemoryUtilization:
+   - VerifyFileSystemUtilization:
